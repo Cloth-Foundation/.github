@@ -1,4 +1,4 @@
-# Loom Language Team — Code of Conduct
+# Code of Conduct
 
 ## Purpose
 
@@ -64,3 +64,4 @@ We are building something ambitious. The language is only as strong as the team 
 
 **Signed,**  
 The Loom Language Team
+
