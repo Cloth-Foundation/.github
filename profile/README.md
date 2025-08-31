@@ -2,3 +2,7 @@
 
 # The Loom Foundation
 The Loom Foundation is the main driving force behind the Loom programming language. We consist of volunteers of many identities devoted to making the most accessible programming language and build system possible to a host of communities.
+
+This repository holds all assets, projects, and tools owned by the Loom Foundation. Please note that certain projects may not adhere to the standard license(s) that are commonly used within our projects. Please be sure to check the LICENSE file in each repository.
+
+Most projects from the Loom Foundation are covered by either the MIT License and/or the Apache License 2.0.
